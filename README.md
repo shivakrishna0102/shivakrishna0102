@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivakrishna0102
 - 👀 I’m interested in development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me shivakrishna0102@gmail.com
 
